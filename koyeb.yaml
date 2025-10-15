@@ -1,0 +1,4 @@
+Koyeb 배포 설정 파일
+이 파일은 봇이 시작될 때 실행될 명령어(Entrypoint)를 정의합니다.
+'naver_crawler_bot.py' 파일을 python3 인터프리터로 실행하라는 명령입니다.
+run: python3 bot.py
